@@ -1,0 +1,2 @@
+OrbbecSDK_ROS
+-DCATKIN_DEVEL_PREFIX=/home/ysc/lite_cog/drivers/orbbec_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ysc/lite_cog/drivers/orbbec_ws/install -G Unix Makefiles

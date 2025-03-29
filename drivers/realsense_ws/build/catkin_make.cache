@@ -1,0 +1,2 @@
+realsense2_camera:realsense2_description
+-DCATKIN_DEVEL_PREFIX=/home/ysc/lite_cog/drivers/realsense_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ysc/lite_cog/drivers/realsense_ws/install -G Unix Makefiles

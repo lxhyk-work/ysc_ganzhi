@@ -1,0 +1,2 @@
+livox_ros_driver2-master
+-DROS_EDITION=ROS1 -DCATKIN_DEVEL_PREFIX=/home/ysc/lite_cog/drivers/mid360_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ysc/lite_cog/drivers/mid360_ws/install -G Unix Makefiles

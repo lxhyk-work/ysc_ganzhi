@@ -1,0 +1,2 @@
+lslidar_driver:lslidar_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ysc/lite_cog/drivers/leishen_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ysc/lite_cog/drivers/leishen_ws/install -G Unix Makefiles
